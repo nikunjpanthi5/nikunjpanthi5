@@ -81,15 +81,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-### ⚡ GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikunjapanthi5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjapanthi5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 ### 🔥 Contribution Streak
 
