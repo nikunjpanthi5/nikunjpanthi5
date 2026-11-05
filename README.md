@@ -60,7 +60,7 @@ I enjoy exploring data, experimenting with machine learning algorithms, and deve
 
 ## 🚀 Featured Project
 
-### 🛒 E-Commerce Customer Intelligence
+### 🛒 churn-prediction-recommender-system
 
 An end-to-end Data Science and Machine Learning project built using online retail transaction data.
 
@@ -87,11 +87,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 <img width="65%" src="https://streak-stats.demolab.com?user=nikunjpanthi5&theme=tokyonight&hide_border=true&border_radius=10" />
 
-### 📈 Contribution Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjpanthi5&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
 
 ---
 
