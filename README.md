@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunja-panthi-47107a294/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/nikunjapanthi5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikunjapanthi5&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=nikunjpanthi5&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 </div>
 
@@ -77,7 +77,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 **Tech Stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost · FastAPI · Streamlit
 
-🔗 **[Explore the Repository →](https://github.com/nikunjapanthi5/ecommerce-customer-intelligence)**
+🔗 **[Explore the Repository →](https://github.com/nikunjpanthi5/churn-prediction-recommender-system)**
 
 ---
 
@@ -89,7 +89,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 ### 📈 Contribution Activity
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjapanthi5&theme=tokyo-night&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjpanthi5&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -115,7 +115,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 [![Portfolio](https://img.shields.io/badge/Personal_Website-Visit_My_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikunjapanthi.com.np)
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikunjapanthi5-181717?style=for-the-badge&logo=github)](https://github.com/nikunjapanthi5)
+[![GitHub](https://img.shields.io/badge/GitHub-nikunjpanthi5-181717?style=for-the-badge&logo=github)](https://github.com/nikunjpanthi5)
 
 📍 Pokhara, Nepal
 
