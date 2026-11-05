@@ -60,7 +60,7 @@ I enjoy exploring data, experimenting with machine learning algorithms, and deve
 
 ## 🚀 Featured Project
 
-### 🛒 churn-prediction-recommender-system
+### 🛒 ecommerce-customer-intelligence
 
 An end-to-end Data Science and Machine Learning project built using online retail transaction data.
 
@@ -77,7 +77,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 **Tech Stack:** Python · Pandas · NumPy · Scikit-learn · XGBoost · FastAPI · Streamlit
 
-🔗 **[Explore the Repository →](https://github.com/nikunjpanthi5/churn-prediction-recommender-system)**
+🔗 **[Explore the Repository →](https://github.com/nikunjpanthi5/ecommerce-customer-intelligence)**
 
 ---
 
