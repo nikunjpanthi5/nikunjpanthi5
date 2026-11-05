@@ -85,7 +85,7 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 ### 🔥 Contribution Streak
 
-<img width="65%" src="https://streak-stats.demolab.com?user=nikunjapanthi5&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="65%" src="https://streak-stats.demolab.com?user=nikunjpanthi5&theme=tokyonight&hide_border=true&border_radius=10" />
 
 ### 📈 Contribution Activity
 
