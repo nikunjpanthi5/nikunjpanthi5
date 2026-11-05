@@ -81,15 +81,23 @@ An end-to-end Data Science and Machine Learning project built using online retai
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=nikunjapanthi5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+### ⚡ GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjapanthi5&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikunjapanthi5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=nikunjapanthi5&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjapanthi5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+### 🔥 Contribution Streak
+
+<img width="65%" src="https://streak-stats.demolab.com?user=nikunjapanthi5&theme=tokyonight&hide_border=true&border_radius=10" />
+
+### 📈 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjapanthi5&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
