@@ -1,5 +1,4 @@
  <div align="center">
-
 # 👋 Hi, I'm Nikunja Panthi
 
 ### Data Science | Machine Learning | Artificial Intelligence
