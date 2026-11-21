@@ -130,7 +130,7 @@ An open-source initiative to organize and improve the discoverability of dataset
 
 <div align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=nikunjapanthi5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+<img width="65%" src="https://streak-stats.demolab.com?user=nikunjpanthi5&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 
 </div>
 
